@@ -2,7 +2,7 @@
 // This is an integrated curriculum engagement assignment task submission for
 // Programming 2A (VCGPPT-PROG6221-FT-BCAD0701)
 
-internal class App {
+public class App {
 
     private static void Main(string[] args) {
     }
