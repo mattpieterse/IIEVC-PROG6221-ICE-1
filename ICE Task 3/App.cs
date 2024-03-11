@@ -6,6 +6,15 @@ public class App {
 
     private static void Main(string[] args) {
 
-        Console.WriteLine("Sales Terminal (1.0.0)");
+        Console.WriteLine("Sales Terminal (1.0.0) \n");
+
+        bool isWorkdayOver = false;
+        while (!isWorkdayOver) {
+            isWorkdayOver = InputSale();
+        }
+    }
+
+    private static bool InputSale() {
+        return false;
     }
 }
